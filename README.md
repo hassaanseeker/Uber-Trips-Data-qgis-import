@@ -5,7 +5,8 @@
 ### Python Code
 
 ### Import all the required libraries
-import pandas as pd 
+import pandas as pd
+
 import numpy as np
 from shapely.geometry import LineString
 import geojson
